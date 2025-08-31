@@ -13,3 +13,8 @@
 아파치 작동 안할경우.
 new -> other -> server검색 -> Tomcat09version -> 서버설정 -> sever 클린 후 시작
 jsp속성 -> java build path에서 삭제후 server runtime새로 끼우면됨
+
+1.드라이브 로드(mysql
+
+web.xml만들기
+=> 프로젝트 우클릭 -> JAVA EE Tools -> Generate Deployment Descriptor Stub클릭 => 자동생성완료
